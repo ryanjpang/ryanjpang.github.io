@@ -6,10 +6,14 @@ h2 {
 
 }
 
-ul{
+ul {
   font-family: verdana;
   list-style: none;
   color: orange;
   style: none;
+  text-decoration: none;
+}
+a{
+  color: orange;
   text-decoration: none;
 }
