@@ -113,6 +113,8 @@ h4{
 
 nav {
   margin: 35px;
+  position: fixed;
+
 }
 
 nav ul {
