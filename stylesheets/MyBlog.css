@@ -99,6 +99,7 @@ img {
 
 h4{
   padding: 35px;
+  text-align: center;
 }
 
 
@@ -114,7 +115,7 @@ h4{
 nav {
   margin: 35px;
   position: fixed;
-
+  width: 200px;
 }
 
 nav ul {
@@ -139,7 +140,7 @@ nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
 
-    padding-left: 60px;
+    text-align: center;
     border-bottom: 5px solid #ead6be;
 }
 
