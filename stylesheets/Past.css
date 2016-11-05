@@ -1,0 +1,169 @@
+video {
+  margin: 0;
+  padding: 0;
+  border: 0%;
+  vertical-align: baseline;
+}
+
+section {
+  display: block;
+}
+
+header {
+  margin: 35px;
+}
+
+body {
+  line-height: 1;
+  font-family: tahoma;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+.wrapper {
+  width: 1044px;
+  margin: auto;
+}
+
+.columns {
+  position: relative;
+}
+
+}
+
+h1 {
+  letter-spacing: 14px;
+  font-family: helvetica;
+  font-variant: small-caps;
+  color: black;
+  margin-bottom: 25px;
+}
+
+.posts {
+  width: 698px;
+  background-color: #FFFFFF;
+  padding: 15px;
+  margin-left: 350px;
+}
+
+article {
+
+
+}
+
+
+h2 {
+  font-variant: small-caps;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+h3 {
+  font-size: 10px;
+  margin-bottom: 35px;
+}
+
+img {
+  margin-bottom: 35px;
+  width: 695px;
+}
+
+h4 {
+  padding: 8px;
+  font-family: 'Helvetica Neue', Helvetica, Serif;
+  letter-spacing: 4px;
+  font-size: 40px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.index {
+  width: 256px;
+  background-color: #FFFFFF;
+  position: absolute;
+  height: 100%;
+
+  top: 0;
+
+}
+
+nav {
+  margin: 35px 28px;
+  position: fixed;
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin-bottom: 60px;
+    padding-left: 0px;
+    margin-top: 35px;
+}
+
+nav ul li a {
+    display: block;
+
+    background-color: #A9;
+    color:#000000;
+
+    font-weight: 200;
+    font-size: 14px;
+
+    line-height: 60px;
+    height: 60px;
+
+    font-family: 'Helvetica Neue', Helvetica, Serif;
+    font-weight: 300px;
+
+    letter-spacing: 4px;
+
+    text-decoration:none;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background: none;
+    color: #383838;
+}
+
+ul {
+  line-height: 35px;
+}
+
+.index a {
+
+}
+
+footer {
+  color: #a9a9a9;
+  clear: both;
+  background-color: #FFFFFF;
+  padding: 35px;
+  text-decoration: none;
+}
+
+footer a {
+
+}
