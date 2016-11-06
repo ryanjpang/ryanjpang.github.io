@@ -73,6 +73,9 @@ article {
 
 }
 
+a {
+  margin: left;
+}
 
 h2 {
   font-variant: small-caps;
