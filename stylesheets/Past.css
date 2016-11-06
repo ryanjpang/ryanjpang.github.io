@@ -75,7 +75,7 @@ article {
 p {
   letter-spacing: 2px;
   font-family: 'Helvetica Neue', Helvetica, Serif;
-
+  font-weight: 100;
 }
 
 a {
