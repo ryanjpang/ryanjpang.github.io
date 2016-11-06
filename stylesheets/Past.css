@@ -69,7 +69,11 @@ h1 {
 }
 
 article {
-  
+
+}
+
+p {
+  letter-spacing: 2px;
 }
 
 a {

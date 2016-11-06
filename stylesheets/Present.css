@@ -55,6 +55,10 @@ a {
   margin: left;
 }
 
+p {
+  letter-spacing: 2px;
+}
+
 h1 {
   letter-spacing: 14px;
   font-family: helvetica;
