@@ -10,16 +10,16 @@ section {
 
 .wrapper {
   width: 1048px;
-  margin: auto;
+  margin: left;
 }
 
 .columns {
-  position: relative;
+  position: left;
 }
 
 .index {
   width: 256px;
-  position: absolute;
+  position: left;
   height: 100%;
   top: 0;
 
@@ -105,5 +105,5 @@ header img {
     margin-bottom: 60px;
     padding-left: 0px;
     margin-top: 0px;
-    
+
 }
