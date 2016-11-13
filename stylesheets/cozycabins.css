@@ -8,7 +8,7 @@ section {
 }
 
 .wrapper {
-  width: 1044px;
+  width: 1048px;
   margin: auto;
 }
 
@@ -16,19 +16,10 @@ section {
   position: relative;
 }
 
-.posts {
-  width: 698px;
-  background-color: ;
-  padding: 15px;
-  margin-left: 350px;
-}
-
-
 .index {
   width: 256px;
   position: absolute;
   height: 100%;
-
   top: 0;
 
 }
