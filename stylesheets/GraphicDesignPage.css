@@ -39,6 +39,12 @@ h1 {
   letter-spacing: 4px;
 }
 
+h2 {
+  font-weight: 100;
+  font-size: 30px;
+  letter-spacing: 4px;
+}
+
 #welcomeSection p {
   font-size: 20px;
   position: relative;
