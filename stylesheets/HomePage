@@ -1,0 +1,47 @@
+body {
+	background: url('https://c7.staticflickr.com/1/592/21863478214_dc0f1be6c2_k.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: 'Helvetica', Helvetica, serif;
+	font-weight: 100;
+	font-size: 60px;
+	margin: 0px;
+  letter-spacing: 14px;
+
+}
+
+p {
+	color: #FFFFFF;
+	font-family: 'Helvetica', Helvetica, Serif;
+	font-weight: 200;
+  padding: 10px;
+  letter-spacing: 10.7px;
+		}
+
+a {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.bio {
+  background-color:rgba(178,178,178,0.70);
+  padding: 20px;
+  width: 1280px;
+	margin: 100px auto;
+  text-align: center;
+}
+
+img {
+  padding-right: 10px;
+}
+
+.footer {
+  text-align: center;
+}
