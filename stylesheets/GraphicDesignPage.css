@@ -1,0 +1,177 @@
+html, body {
+    overflow: auto;
+    margin: 0;
+    height: 100%;
+    font-family: 'Helvetica', Helvetica, serif;
+    font-weight: 100;
+    font-size: 22px;
+}
+
+#headertext {
+ background-color:rgba(178,178,178,0.70);
+ padding: 20px;
+}
+
+#words {
+    margin-bottom: -9%;
+    height: 100%;
+    font-family: 'Helvetica', Helvetica, serif;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 7px;
+}
+
+#welcomeSection h1 {
+
+ 	color: #FFFFFF;
+	font-family: 'Helvetica', Helvetica, serif;
+	font-weight: 100;
+	font-size: 45px;
+  letter-spacing: 15px;
+	margin: 0px;
+  margin-bottom: -8%;
+  height: 100%;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+
+#welcomeSection p {
+  font-size: 20px;
+  position: relative;
+}
+
+p {
+    font-size: 18px;
+    position:relative;
+    width:50%;
+    padding: 20px;
+    margin:10% auto;
+    letter-spacing: 2px;
+}
+
+section {
+  position: relative;
+  margin: 0 0rem;
+  padding: 5.25rem 0rem;
+  text-align: center;
+}
+
+#welcomeSection {
+  background:url('https://c7.staticflickr.com/1/592/21863478214_dc0f1be6c2_k.jpg') no-repeat center center;
+  font-size: 12vh;
+  background-color: #2890b9;
+  color: #FFFFFF;
+  background-size: cover;
+}
+
+#aboutSection, #aboutSection p {
+  color: black;
+}
+
+#aboutSection h1 {
+  margin-bottom: 100px;
+}
+
+#aboutSection img {
+  float: left;
+  padding: 0 100px;
+  padding-right: 40px;
+  padding-bottom: 50px;
+}
+
+#aboutSection p, #skillsSection p {
+  padding: 0 0px;
+  text-align: left;
+  font-weight: 200;
+  margin-top: 10px;
+  letter-spacing: 1px;
+  line-height: 150%;
+  margin-bottom: -40px;
+}
+
+#bio {
+  position: relative;
+  padding-left: 20px;
+
+}
+
+#skillsSection {
+  background-color: #a9a9a9;
+  color: #FFFFFF;
+  margin-bottom: -15%;
+}
+
+#skillsSection h1 {
+  margin-top: -5%;
+}
+
+.sectionImg {
+  position: relative;
+  margin: 0 -9999rem;
+  padding: .25rem 9999rem;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+img {
+  padding: 1px 1px 1px 1px;
+  z-index: 1;
+}
+
+#workSection {
+  background-color: #FFFFFF;
+  color: black;
+
+  font-weight: 200;
+  position: relative;
+
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+#workSection p {
+    margin-top: -0.2%;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+#workSection img {
+    padding: 10px 10px 10px 10px;
+}
+
+footer, footer h1 {
+  margin-top: 50px;
+  background-color: #FFFFFF;
+  color: black;
+  font-weight: 200;
+  position: center;
+  text-align: center;
+}
+
+footer {
+  padding: 50px 0;
+}
+
+footer p{
+  margin: 0 auto;
+}
+
+#arrows {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50px;
+}
+
+@media only screen and (max-device-width:999px) {
+
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

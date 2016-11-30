@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Final Home Design Page</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Description goes here">
+        <link href="stylesheets/ProductDevelopmentPage.css" rel="stylesheet">
+        <link href="OpenSans-Regular.ttf">
+    </head>
+    <body>
+  <section id="workSection">
+          <div id="arrows">
+      <img src="http://www.free-icons-download.net/images/home--home-icon-72476.png" width="100%" height="100%" alt="HOME" align=center>
+      </div>
+        <h1>Product Development</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac lacinia est. Ut eget lectus dignissim, facilisis ex at, consequat arcu. Integer vitae viverra ligula. Vivamus euismod, ipsum eu semper sodales, eros nisi tempor libero, ut porta nisi nisl quis magna. Integer varius sapien lectus, sit amet accumsan magna sagittis sit amet. Aliquam tellus leo, lobortis ac tempus quis, rutrum quis elit. Phasellus bibendum, enim ac efficitur gravida, ante quam iaculis enim, at fermentum sem quam elementum neque. In fermentum arcu sit amet massa aliquet, at sagittis odio porta. Aliquam condimentum, justo ut elementum porta, leo nisl vestibulum nisl, ac vestibulum erat eros nec massa.</p>
+    </br>
+      <div id="arrows">
+      <img src="https://cdn0.iconfinder.com/data/icons/glyphpack/26/double-arrow-down-128.png" width="100%" height="100%" alt="" align=center>
+      </div>
+      <h2>Lighting Design</h2>
+
+<img src="https://c3.staticflickr.com/6/5553/30508457474_7f0be599de.jpg" width="500" height="230" alt="IMG_5524">
+      </br>
+      <img src="https://c3.staticflickr.com/6/5775/30508454554_749940b60d.jpg" width="500" height="230" alt="IMG_5520">
+      </br>
+    <img src="https://c3.staticflickr.com/6/5641/30962033810_76bd2c8f6c.jpg" width="500" height="230" alt="IMG_5518">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac lacinia est. Ut eget lectus dignissim, facilisis ex at, consequat arcu. Integer vitae viverra ligula. Vivamus euismod, ipsum eu semper sodales, eros nisi tempor libero, ut porta nisi nisl quis magna. Integer varius sapien lectus, sit amet accumsan magna sagittis sit amet. Aliquam tellus leo, lobortis ac tempus quis, rutrum quis elit. Phasellus bibendum, enim ac efficitur gravida, ante quam iaculis enim, at fermentum sem quam elementum neque. In fermentum arcu sit amet massa aliquet, at sagittis odio porta. Aliquam condimentum, justo ut elementum porta, leo nisl vestibulum nisl, ac vestibulum erat eros nec massa.</p>
+    <h2>PET Bottle Strip Cutter</h2>
+<img src="https://c3.staticflickr.com/6/5444/30508451354_c79535a7fa_c.jpg" width="800" height="224" alt="IMG_7842">
+</br>
+<img src="https://c1.staticflickr.com/6/5614/30508437064_197ed765bc.jpg" width="500" height="333" alt="IMG_6390">
+<img src="https://c3.staticflickr.com/6/5757/30508450034_79aa5a84eb.jpg" width="500" height="333" alt="IMG_6401">
+<img src="https://c6.staticflickr.com/6/5823/31330730245_035332a942.jpg" width="500" height="318" alt="IMG_6461">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac lacinia est. Ut eget lectus dignissim, facilisis ex at, consequat arcu. Integer vitae viverra ligula. Vivamus euismod, ipsum eu semper sodales, eros nisi tempor libero, ut porta nisi nisl quis magna. Integer varius sapien lectus, sit amet accumsan magna sagittis sit amet. Aliquam tellus leo, lobortis ac tempus quis, rutrum quis elit. Phasellus bibendum, enim ac efficitur gravida, ante quam iaculis enim, at fermentum sem quam elementum neque. In fermentum arcu sit amet massa aliquet, at sagittis odio porta. Aliquam condimentum, justo ut elementum porta, leo nisl vestibulum nisl, ac vestibulum erat eros nec massa.</p>
+      </section>
+      <div id="arrows">
+      <img src="https://cdn0.iconfinder.com/data/icons/glyphpack/26/double-arrow-down-128.png" width="100%" height="100%" alt="" align=center>
+      </div>
+      <footer>
+        <h1>Contact Me</h1>
+        <p><a href="mailto: rjpang@ucdavis.edu">Email</a></p>
+        <p><a href="#">W3C Validation</a></p>
+      <p><a href="Codepen">Codepen</a></p>
+</footer>
+    </body>
+</html>
